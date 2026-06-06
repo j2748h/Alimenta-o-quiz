@@ -1,0 +1,6 @@
+{
+  "name": "Alimentação e-book este quiz",
+  "description": "Teste rápido de hábitos para o Guia Alimentação Inteligente",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
