@@ -204,7 +204,7 @@ const ResultScreen: React.FC<ResultScreenProps> = ({ userData, answers }) => {
 
               {/* Call to action button */}
               <a 
-                href="https://pay.hoopay.com.br/?productId[]=313034586501248&qty[]=1"
+                href="https://pay.cakto.com.br/v34zarp_916600"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group relative w-full overflow-hidden bg-emerald-600 text-white font-bold py-8 px-8 rounded-[2.5rem] shadow-2xl shadow-emerald-200 hover:bg-emerald-700 hover:scale-[1.02] active:scale-98 transition-all flex items-center justify-center gap-4 text-xl tracking-wide uppercase"

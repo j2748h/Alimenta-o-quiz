@@ -7,7 +7,7 @@ export const BACKGROUND_GRADIENTS = [
 ];
 
 export const INSTAGRAM_URL = "https://www.instagram.com";
-export const WHATSAPP_URL = "https://pay.hoopay.com.br/?productId[]=313034586501248&qty[]=1";
+export const WHATSAPP_URL = "https://pay.cakto.com.br/v34zarp_916600";
 
 export const QUESTIONS: Question[] = [
   {
